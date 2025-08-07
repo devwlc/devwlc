@@ -4,12 +4,12 @@
 
 <br/>
 
-<!--<div align="center">
+<div align="center">
 
 | ![Walace Ferreira GitHub Stats](https://github-readme-stats.vercel.app/api?username=devwlc&show_icons=true&theme=dark&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devwlc&layout=compact&theme=dark) |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 
-</div>-->
+</div>
 
 <br/>
 
